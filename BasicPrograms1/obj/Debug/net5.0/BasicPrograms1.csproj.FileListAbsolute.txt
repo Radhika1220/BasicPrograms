@@ -1,0 +1,16 @@
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.exe
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.deps.json
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.runtimeconfig.json
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.runtimeconfig.dev.json
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.dll
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\ref\BasicPrograms1.dll
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\bin\Debug\net5.0\BasicPrograms1.pdb
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.AssemblyInfoInputs.cache
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.AssemblyInfo.cs
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.csproj.CoreCompileInputs.cache
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.dll
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\ref\BasicPrograms1.dll
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.pdb
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.genruntimeconfig.cache
+C:\Users\Radhika\source\repos\BasicPrograms1\BasicPrograms1\obj\Debug\net5.0\BasicPrograms1.csproj.AssemblyReference.cache
