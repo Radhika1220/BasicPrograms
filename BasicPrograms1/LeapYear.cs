@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BasicPrograms1
 {
+    /// <summary>
+    /// P2-Check whether year is leap year or not
+    /// </summary>
     class LeapYear
     {
         public static void ReadInput()

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BasicPrograms1
 {
+    /// <summary>
+    /// P3-Finding the power of a number
+    /// </summary>
     class Power0f2
     {
         public static void ReadInput()

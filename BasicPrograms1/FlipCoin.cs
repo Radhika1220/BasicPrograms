@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BasicPrograms1
 {
+    /// <summary>
+    /// P1-To find the occurence of tail and head by using random function and finding out the percentage
+    /// </summary>
     class FlipCoin
     {
         public static void ReadInput()
